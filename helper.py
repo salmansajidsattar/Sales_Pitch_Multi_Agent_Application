@@ -12,18 +12,6 @@ llm = LLM(
     base_url="http://localhost:11434"
 )
 
-# llm = LLM(
-#     api_key="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",
-#     model="groq/llama-3.2-3b-preview",
-#     temperature=0.7,
-#     max_tokens=100
-# )
-# llm = LLM(
-#     api_key="AIzaSyAwY0gznMaycu4RMaj5PT1IjudRgzJEFlY",
-#     model="gemini/gemini-1.5-pro",
-#     temperature=0.4
-# )
-
 
 
 
